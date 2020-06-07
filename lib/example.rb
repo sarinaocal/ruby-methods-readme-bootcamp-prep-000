@@ -11,16 +11,16 @@ phrase = "Hello World!" #Method Body
  # puts phrase
   #puts phrase
   #puts phrase
-  puts phrase
-end #method closing #Immediately Close the method
+  #puts phrase
+#end #method closing #Immediately Close the method
 
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
-say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
+#say_hello_world_ten_times
